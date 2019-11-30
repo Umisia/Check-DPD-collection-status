@@ -1,0 +1,1 @@
+Get all Zoho Desk tickets in suitable Status. Filter to those with DPD collection ref set in custom field. Check the status of collection on DPD page. In case of DPD failure, inform agent in the ticket (by tagged comment).
